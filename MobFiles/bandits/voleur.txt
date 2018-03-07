@@ -1,0 +1,6 @@
+<BANDIT> Voleur
+75
+1
+15
+20
+coup de dague,esquive

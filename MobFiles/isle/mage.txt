@@ -1,0 +1,6 @@
+<ISLE> Mage
+100
+5
+20
+20
+Coup d'épée, esquive

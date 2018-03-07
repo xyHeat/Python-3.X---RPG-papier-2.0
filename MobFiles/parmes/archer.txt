@@ -1,0 +1,5 @@
+<PARMES> Archer
+75
+5
+35
+5

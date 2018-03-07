@@ -1,0 +1,6 @@
+<BANDIT> Maraudeur
+75
+1
+20
+15
+coup de hache,esquive

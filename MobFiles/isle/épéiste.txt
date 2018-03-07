@@ -1,0 +1,6 @@
+<ISLE> Epéiste
+120
+5
+25
+10
+Coup d'épée, esquive

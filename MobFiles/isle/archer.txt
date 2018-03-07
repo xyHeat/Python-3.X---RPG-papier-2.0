@@ -1,0 +1,6 @@
+<ISLE> Archer
+75
+5
+35
+5
+Coup d'épée, esquive

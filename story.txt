@@ -1,0 +1,65 @@
+PYRPG est un jeu textuel où vous incarnez le Héro.
+Vous serez amenés à apprendre des attaques et des sorts,
+et à les appliquer en combat.
+__NEXT__4
+Il existe différents type d'attaques :
+Des attaques qui infligent des dommages, des boosts et
+des esquives.
+__NEXT__8
+Les attaques d'esquives vous permettent d'esquiver la
+prochaine attaque qui vous est destinée. Elle peut être
+la votre ou celle d'un ennemis.
+__NEXT__12
+Les attaques qui infligent des dommages peuvent se retourner
+contre vous si vous vous trompez dans son écriture.
+Faites donc bien attention (il vous faudra donc les apprendre).
+__NEXT__16
+Enfin les boost augmentent vos stats "attaque" et "défense".
+La stat "attaque" augmente vos dégats.
+Et la stat "défense" augmente vos boosts.
+__NEXT__20
+Voici vos quatres attaques de base, Retenez-les bien: esquive,
+coup d'épée (attaque), protection(boost défense),coup de
+hache(attaque). Attention, il n'y a jamais de majuscules.
+__NEXT__24
+Vous commencez avec 10 de chaque stat et 100 pièces.
+Ne laissez aucune chance à vos ennemis,
+&playerName&
+SAVE__NEXT__28
+Le roi de votre Royaume, Rodrick LeBleu, vous à envoyé à la
+recherche de nouvelles terres afin d’étendre la puissance de
+son empire.
+__NEXT__32
+C'est alors que vous recevez un message vous ordonnant de
+rentrez au chateau car celui-ci est attaqué par le celebre
+Antoinne LeRouge, ennemis juré de votre Roi.
+__NEXT__36
+Vous retournez donc en arrière, vers votre chateau.
+C'est alors que vous tombez sur un groupe de bandits.
+Ils vous agressent.
+__BATTLE__40
+<BANDITS>_NULL_41
+Vous avez effrayé le groupe de bandit.
+Dans leur fuite, ils ont fait tomber une carte du pays.
+Vous la ramassez.
+__CARTE__45<carte1>
+Vous vous trouvez actuellement au Sud de CAVALDE, dans la
+Forêt des Monts Eparses. Votre destination est la ville de
+PARMES où votre roi est en danger.
+__NEXT__49
+Vous décidez de passer par la ville de CAVALDE, le chemin le
+plus cours. Cela vous permettra aussi de refaire vos stocks.
+Vous partez donc dans cette direction.
+__NEXT__53
+Vous parcourez quelques Lieues.
+Soudain, vous entendez des frottements métaliques provenant
+de votre gauche. Vous vous couchez à Terre et attendez.
+__NEXT__57
+Les bruits ne cessent pas. Vous vous rapprochez un peu.
+Vous remarquez un homme portant les couleurs de l'armée
+d'Antoinne LeRouge. Il porte quelques blessures.
+__NEXT__61
+Vous dégainez alors votre épée et chargez l'ennemis.
+__BATTLE__63
+<STORY>_EDWARD DRAWED INJURED A_64
+
